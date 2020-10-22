@@ -54,15 +54,16 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
 
   <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true"/>
 
 </details>
 
 ---
-
+<details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradox4280&layout=compact)](https://github.com/paradox4280/github-readme-stats)
+</details>
 
 [twitter]: https://twitter.com/paradox4280
 [youtube]: https://youtube.com/paradox4280
