@@ -29,7 +29,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.electricmonk.nl//log/wp-content/uploads/2016/11/serveimage.png" />
+<img align="left" alt="MySQL" width="26px" src="https://png-2.findicons.com/files/icons/977/rrze/720/database_mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://smyl.es/wurdp/assets/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://maxcdn.icons8.com/Share/icon/nolan/logos/github1600.png" />
