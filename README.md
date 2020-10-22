@@ -53,3 +53,5 @@
 ### GitHub Stats
 
   <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true"/>
+
+[twitter]: https://twitter.com/paradox4280
