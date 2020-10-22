@@ -38,7 +38,7 @@
 
 ---
 
-  <summary>:zap: Recent GitHub Activity</summary>
+### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
@@ -50,7 +50,7 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
   <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true"/>
 
