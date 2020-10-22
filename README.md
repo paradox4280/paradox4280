@@ -54,4 +54,8 @@
 
   <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true"/>
 
+### test
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradox4280&layout=compact)](https://github.com/paradox4280/github-readme-stats)
+
 [twitter]: https://twitter.com/paradox4280
