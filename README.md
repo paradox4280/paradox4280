@@ -12,11 +12,8 @@
 
 [![Spotify](https://now-player-paradox.vercel.app/api/spotify)](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 ### Connect with me:
-
 [<img align="left" alt="Cube | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Cube | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
+[<img align="left" alt="Cube | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -57,4 +54,5 @@
 
 <br />
 
+[discord]: paradox4280#0021
 [twitter]: https://twitter.com/paradox4280
