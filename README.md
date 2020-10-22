@@ -55,6 +55,4 @@
 
 <br />
 
----
-
 [twitter]: https://twitter.com/paradox4280
