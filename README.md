@@ -1,4 +1,4 @@
-### Hi there, I'm Cube - aka [paradox4280, c2Fi, x2Fi, RG9t] 👋
+### Hi there, I'm Cube - aka paradox4280, c2Fi, x2Fi, RG9t 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paradox4280?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/paradox4280)
 
