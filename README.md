@@ -34,7 +34,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 
@@ -60,6 +59,6 @@
 
 ### Most Used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradox4280&layout=compact)](https://github.com/paradox4280/github-readme-stats)
+[![Top Langs]<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=paradox4280&layout=compact)](https://github.com/paradox4280/github-readme-stats"/>
 
 [twitter]: https://twitter.com/paradox4280
