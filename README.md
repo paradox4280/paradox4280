@@ -40,6 +40,8 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -50,6 +52,8 @@
 4. 🎉 Merged PR [#12](https://github.com/paradox4280/paradox4280/pull/12) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
 5. 💪 Opened PR [#12](https://github.com/paradox4280/paradox4280/pull/12) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
 <!--END_SECTION:activity-->
+
+---
 
 </details>
 
