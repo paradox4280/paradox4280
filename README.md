@@ -57,8 +57,4 @@
 
 ---
 
-### Most Used languages
-
-[![Top Langs]<img align="https://github-readme-stats.vercel.app/api/top-langs/?username=paradox4280&layout=compact)](https://github.com/paradox4280/github-readme-stats"/>
-
 [twitter]: https://twitter.com/paradox4280
