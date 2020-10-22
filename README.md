@@ -10,8 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-player-paradox.vercel.app/api/spotify-playing)]" alt="Cube Spotify Playing" width="350" />]
-
+[![Spotify](https://now-player-paradox.vercel.app/api/spotify)](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 ### Connect with me:
 
 [<img align="left" alt="Cube | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
