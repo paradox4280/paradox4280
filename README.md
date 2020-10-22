@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-player.paradox4280.vercel.app/)]" alt="Cube Spotify Playing" width="350" />](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
+[<img src="https://spotify-player-virid.vercel.app/)]" alt="Cube Spotify Playing" width="350" />](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 
 ### Connect with me:
 
