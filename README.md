@@ -39,21 +39,12 @@
 
 ---
 
-### :zap:Recent GitHub Activity
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/paradox4280/paradox4280/pull/13) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
-3. 💪 Opened PR [#13](https://github.com/paradox4280/paradox4280/pull/13) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
-4. 🎉 Merged PR [#12](https://github.com/paradox4280/paradox4280/pull/12) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
-5. 💪 Opened PR [#12](https://github.com/paradox4280/paradox4280/pull/12) in [paradox4280/paradox4280](https://github.com/paradox4280/paradox4280)
-<!--END_SECTION:activity-->
+  <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true" />
 
----
-
-### :zap:GitHub Stats
-  <img align="left" alt="Cube's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradox4280&show_icons=true&hide_border=true"/>
-<br />
+</details>
 
 [discord]: https://discord.gg/bMW59Qn
 [twitter]: https://twitter.com/paradox4280
