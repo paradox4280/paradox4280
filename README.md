@@ -39,6 +39,11 @@
 
 ---
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+```
 <details>
   <summary>:zap: GitHub Stats</summary>
 
