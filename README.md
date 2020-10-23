@@ -41,6 +41,77 @@
 ### This Week I Spent My Time On 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 136 Contributions in the Year 2020
+ > 
+> 📦 279 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 64 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+🌃 Evening    37 commits     █████████████████░░░░░░░░   69.81% 
+🌙 Night      10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       14 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+Saturday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+Sunday       31 commits     ██████████████░░░░░░░░░░░   58.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/paradox4280/paradox4280/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <details>
