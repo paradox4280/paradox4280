@@ -1,8 +1,8 @@
-### Hi there, I'm Cube - aka paradox4280, c2Fi, x2Fi, RG9t 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there, I'm Cube - aka paradox4280, c2Fi, x2Fi, RG9t 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paradox4280?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/paradox4280)
 
-## I'm a Student, Penetration Tester, Back-End Developer!!
+### I'm a Student, Penetration Tester, Back-End Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
