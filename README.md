@@ -8,6 +8,9 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play the piano
 
+### Spotify Playing 🎧
+
+[<img src="https://now-player-paradox.vercel.app/api/spotify" alt="Cube Spotify Playing" width="350"/>](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 
 ### Connect with me:
 
@@ -15,10 +18,6 @@
 [<img align="left" alt="Cube | Discord" width="22px" src="https://image.winudf.com/v2/image1/Y29tLmRpc2NvcmRfaWNvbl8xNTU0MDY5NjU3XzAyMQ/icon.png?w=170&fakeurl=1" />][discord]
 
 <br />
-
-### Spotify Playing 🎧
-
-[<img src="https://now-player-paradox.vercel.app/api/spotify" alt="Cube Spotify Playing" width="350"/>](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 
 ### Languages and Tools:
 
