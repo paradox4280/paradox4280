@@ -38,12 +38,14 @@
 <br />
 
 ---
-
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
 ```
+<!--END_SECTION:waka-->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
