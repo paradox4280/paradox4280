@@ -40,11 +40,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3314%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4147%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 143 Contributions in the Year 2020
+> 🏆 136 Contributions in the Year 2020
  > 
 > 📦 334 Bytes Used in Github's Storage 
  > 
@@ -102,6 +102,9 @@ HTML                     1 repo              ████░░░░░░░�
 JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
+
+
+
 <!--END_SECTION:waka-->
 
 
