@@ -40,19 +40,19 @@
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12937%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14427%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 152 Contributions in the Year 2020
+> 🏆 153 Contributions in the Year 2020
  > 
-> 📦 375 Bytes Used in Github's Storage 
+> 📦 425 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 57 Public Repositories
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -101,10 +101,10 @@ Windows                  6 hrs 51 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Python                   5 repos             ██████████████░░░░░░░░░░░   55.56% 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
