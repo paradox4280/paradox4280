@@ -46,7 +46,7 @@
 
 > 🏆 1 Contributions in the Year 2021
  > 
-> 📦 490 Bytes Used in Github's Storage 
+> 📦 492 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
