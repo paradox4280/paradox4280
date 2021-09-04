@@ -1,4 +1,4 @@
-### Hi there, I'm paradox4280 - aka cube, c2Fi, x2Fi, RG9t <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Hi there, I'm paradox4280 - aka c2Fi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paradox4280?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/@paradox4280)
 
@@ -7,10 +7,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play the piano
-
-### Spotify Playing 🎧
-
-[<img src="https://now-player-paradox.vercel.app/api/spotify" alt="Cube Spotify Playing" width="350"/>](https://open.spotify.com/user/55acja3wsloayaw0l7m56doyu)
 
 ### Connect with me:
 
