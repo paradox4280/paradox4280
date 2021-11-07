@@ -17,7 +17,7 @@
 <!--[<img align="left" alt="Cube | Twitter" width="22px" src="https://www.dignitydreams.com/wp-content/uploads/2017/08/twitter-icon-basic-round-social-iconset-s-icons-0.png" />][twitter]---><!--
 [<img align="left" alt="Cube | Discord" width="22px" src="https://image.winudf.com/v2/image1/Y29tLmRpc2NvcmRfaWNvbl8xNTU0MDY5NjU3XzAyMQ/icon.png?w=170&fakeurl=1" />][discord]
 -->
-<br />
+<br>
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
