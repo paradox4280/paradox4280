@@ -19,21 +19,33 @@
 
 <br />
 
-### Languages and Tools:
+## 🛠️ Technologies and Tools
+### DevOps & Cloud Technologies
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+</p>
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://png-2.findicons.com/files/icons/977/rrze/720/database_mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://smyl.es/wurdp/assets/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://maxcdn.icons8.com/Share/icon/nolan/logos/github1600.png" />
-<img align="left" alt="Terminal" width="26px" src="http://zazuapp.org/images/package-icons/terminal.png"/>
+### Infrastructure & Network Technologies
+<p>
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
+  <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white" /> 
+  <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> 
+  <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />  
+  <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
+</p>
 
 <br />
 
