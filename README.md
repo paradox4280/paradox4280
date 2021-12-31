@@ -45,7 +45,7 @@
 
 > 🏆 90 Contributions in the Year 2021
  > 
-> 📦 709 Bytes Used in GitHub's Storage 
+> 📦 711 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +106,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 
 
