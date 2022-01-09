@@ -45,11 +45,11 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 728 Bytes Used in GitHub's Storage 
+> 📦 730 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -104,7 +104,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 
