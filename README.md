@@ -45,7 +45,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 738 Bytes Used in GitHub's Storage 
+> 📦 740 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +104,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 
 
