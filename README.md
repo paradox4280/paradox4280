@@ -39,13 +39,15 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 21 Contributions in the Year 2022
  > 
-> 📦 733 Bytes Used in GitHub's Storage 
+> 📦 735 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,13 +84,13 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       █████████████████████████   100.0%
+Python                   2 hrs 12 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Atom                     2 hrs 17 mins       █████████████████████████   100.0%
+Atom                     2 hrs 12 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.0%
+Windows                  2 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +106,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 01:10:15 UTC
+ Last Updated on 08/05/2022 01:13:56 UTC
 <!--END_SECTION:waka-->
 
 
