@@ -47,7 +47,7 @@
 
 > 🏆 35 Contributions in the Year 2022
  > 
-> 📦 805 Bytes Used in GitHub's Storage 
+> 📦 807 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,13 +84,13 @@ Sunday       32 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-OCaml                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +106,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2022 01:27:24 UTC
+ Last Updated on 12/07/2022 01:42:40 UTC
 <!--END_SECTION:waka-->
 
 
