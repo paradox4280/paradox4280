@@ -47,7 +47,7 @@
 
 > 🏆 43 Contributions in the Year 2022
  > 
-> 📦 779 Bytes Used in GitHub's Storage 
+> 📦 781 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,45 +55,6 @@
  > 
 > 🔑 9 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-🌆 Daytime    75 commits     ████████░░░░░░░░░░░░░░░░░   35.05% 
-🌃 Evening    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.37% 
-🌙 Night      49 commits     █████░░░░░░░░░░░░░░░░░░░░   22.9%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
-Tuesday      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
-Friday       57 commits     ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-Saturday     44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Sunday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -106,7 +67,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 01:55:12 UTC
+ Last Updated on 14/09/2022 01:46:25 UTC
 <!--END_SECTION:waka-->
 
 
