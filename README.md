@@ -39,7 +39,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
@@ -47,11 +47,11 @@
 
 > 🏆 45 Contributions in the Year 2022
  > 
-> 📦 786 Bytes Used in GitHub's Storage 
+> 📦 808 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -84,13 +84,18 @@ Sunday       35 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.17% 
+Python                   1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26% 
+CSS                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12% 
+Java                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
+EJS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 14 mins       █████████████████████░░░░   85.93% 
+IntelliJ                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +111,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2022 23:07:59 UTC
+ Last Updated on 19/09/2022 01:57:40 UTC
 <!--END_SECTION:waka-->
 
 
