@@ -39,7 +39,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
@@ -47,7 +47,7 @@
 
 > 🏆 46 Contributions in the Year 2022
  > 
-> 📦 842 Bytes Used in GitHub's Storage 
+> 📦 845 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,8 +84,8 @@ Sunday       35 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   6 hrs 32 mins       ████████████████░░░░░░░░░   64.08% 
-OCaml                    2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82% 
+Python                   6 hrs 33 mins       ████████████████░░░░░░░░░   64.1% 
+OCaml                    2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81% 
 JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
 Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
 EJS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
@@ -110,7 +110,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2022 01:30:34 UTC
+ Last Updated on 04/10/2022 01:48:42 UTC
 <!--END_SECTION:waka-->
 
 
