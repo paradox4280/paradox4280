@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Saba <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<h3>I'm a Back-End Developer!!</h3>
-
-## 🛠️ Technologies and Tools
-
+<h3 align="center">I'm a Back-End Developer!!</h3>
 
 ---
 
