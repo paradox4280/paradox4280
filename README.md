@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Saba <img src="https://media.giphy.com/media/EdB2g3VFDoKs57oe1w/giphy.gif" width="50"></h1>
-<h3 align="center">I'm a Back-End Developer!!</h3>
+<h1 align="center">Hi, I'm Saba <img src="https://media.giphy.com/media/EdB2g3VFDoKs57oe1w/giphy.gif" width="50"></h1>
+<h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2015%20mins-blue)
