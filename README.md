@@ -2,19 +2,19 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 53 Contributions in the Year 2022
+> 🏆 51 Contributions in the Year 2022
  > 
-> 📦 872 Bytes Used in GitHub's Storage 
+> 📦 796 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -73,5 +73,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2022 05:45:37 UTC
+ Last Updated on 17/10/2022 02:02:06 UTC
 <!--END_SECTION:waka-->
