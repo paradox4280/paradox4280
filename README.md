@@ -10,7 +10,7 @@
 
 > 🏆 2 Contributions in the Year 2023
  > 
-> 📦 907 Bytes Used in GitHub's Storage 
+> 📦 908 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,13 +47,13 @@ Sunday       43 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -69,5 +69,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2023 01:05:25 UTC
+ Last Updated on 15/01/2023 01:12:38 UTC
 <!--END_SECTION:waka-->
