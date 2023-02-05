@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
 
@@ -10,7 +10,7 @@
 
 > 🏆 2 Contributions in the Year 2023
  > 
-> 📦 884 Bytes Used in GitHub's Storage 
+> 📦 886 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,14 +47,14 @@ Sunday       41 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ███████████████████░░░░░░   79.24% 
-C                        21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76%
+Python                   2 hrs 43 mins       ██████████████████░░░░░░░   74.61% 
+C                        55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39%
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.0%
+Windows                  3 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +70,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2023 01:08:17 UTC
+ Last Updated on 05/02/2023 01:14:17 UTC
 <!--END_SECTION:waka-->
