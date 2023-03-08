@@ -2,19 +2,19 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 932 Bytes Used in GitHub's Storage 
+> 📦 934 Bytes Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -45,17 +45,17 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   18 hrs 4 mins       ████████████████████░░░░░   80.63 % 
-JavaScript               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Java                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   18 hrs 49 mins      ████████████████████░░░░░   80.35 % 
+JavaScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Java                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +70,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2023 01:15:00 UTC
+ Last Updated on 08/03/2023 01:12:49 UTC
 <!--END_SECTION:waka-->
