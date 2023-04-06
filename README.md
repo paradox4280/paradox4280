@@ -2,19 +2,19 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 888 Bytes Used in GitHub's Storage 
+> 📦 889 Bytes Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2023
+> 🏆 11 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -45,17 +45,17 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   11 hrs 12 mins      ██████████████████░░░░░░░   71.18 % 
-PHP                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   11 hrs 23 mins      █████████████████░░░░░░░░   66.85 % 
+PHP                      2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +70,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2023 00:52:33 UTC
+ Last Updated on 06/04/2023 00:59:24 UTC
 <!--END_SECTION:waka-->
