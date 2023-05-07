@@ -2,13 +2,13 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 916 Bytes Used in GitHub's Storage 
+> 📦 918 Bytes Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2023
  > 
@@ -45,17 +45,17 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   13 hrs 26 mins      ████████████████████████░   94.70 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   13 hrs 31 mins      ████████████████████████░   95.09 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 CSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +70,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2023 00:57:59 UTC
+ Last Updated on 07/05/2023 01:06:09 UTC
 <!--END_SECTION:waka-->
