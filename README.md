@@ -8,7 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 914 Bytes Used in GitHub's Storage 
+> 📦 915 Bytes Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -45,16 +45,13 @@ Sunday                   67 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     33 mins             ███████████████░░░░░░░░░░   58.19 % 
-Python                   20 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,5 +66,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2023 01:13:49 UTC
+ Last Updated on 07/06/2023 01:15:04 UTC
 <!--END_SECTION:waka-->
