@@ -45,14 +45,13 @@ Sunday                   69 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     20 mins             ███████████████░░░░░░░░░░   60.41 % 
-Python                   13 mins             ██████████░░░░░░░░░░░░░░░   39.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -68,5 +67,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2023 00:53:30 UTC
+ Last Updated on 29/08/2023 00:53:11 UTC
 <!--END_SECTION:waka-->
