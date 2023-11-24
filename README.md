@@ -2,11 +2,13 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%206%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.3 kB Used in GitHub's Storage 
+> 📦 1.4 kB Used in GitHub's Storage 
  > 
 > 🏆 37 Contributions in the Year 2023
  > 
@@ -67,5 +69,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2023 00:57:02 UTC
+ Last Updated on 24/11/2023 00:55:41 UTC
 <!--END_SECTION:waka-->
