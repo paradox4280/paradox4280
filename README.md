@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Back-end developer!!</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.7%20thousand%20lines%20of%20code-blue)
 
@@ -45,13 +45,13 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +67,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 00:55:44 UTC
+ Last Updated on 03/12/2023 01:00:26 UTC
 <!--END_SECTION:waka-->
