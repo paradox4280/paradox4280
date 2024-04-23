@@ -10,8 +10,6 @@
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -67,5 +65,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 00:57:49 UTC
+ Last Updated on 23/04/2024 00:56:39 UTC
 <!--END_SECTION:waka-->
