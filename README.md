@@ -8,7 +8,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.5 kB Used in GitHub's Storage 
+> 📦 1.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,5 +67,5 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2024 00:57:11 UTC
+ Last Updated on 08/05/2024 00:47:38 UTC
 <!--END_SECTION:waka-->
